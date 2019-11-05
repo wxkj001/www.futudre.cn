@@ -1,3 +1,11 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://www.futudre.cn/"
+title = "wxkj de blog"
+googleAnalytics = "UA-123-456-789"
+theme = "github-style"
+
+[params]
+  author = "wxkj"
+  description = "wxkj"
+  github = "wxkj001"
+  twitter = ""
+  email = "wxscz@qq.com"
